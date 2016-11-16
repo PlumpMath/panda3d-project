@@ -1,0 +1,1 @@
+..\python\ppython.exe -E main.py
